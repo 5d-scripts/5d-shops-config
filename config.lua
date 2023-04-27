@@ -54,7 +54,7 @@ _CONFIG =
                 -- WEAPON
                 {label ="Pistol", name = "WEAPON_PISTOL", price = 170, category = "Weapons", isWeapon = true},
             },
-            locations = {vector4(-1073.0330, -273.1723, 36.6623, 212.5677)}
+            locations = {vector4(24.2569, -1347.2899, 28.4970, 267.6137)}
         }
     },
 }
